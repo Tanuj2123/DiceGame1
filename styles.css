@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #393E46;
+}
+.main-heading{
+    font-size: 7rem;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+    color:#4ECCA3;
+    margin-bottom: 1%;
+}
+.dice{
+    color:#4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size:2rem;
+    display:inline-block;
+    padding: 0 3% 3%;
+}
+.copyright-text{
+    color:#fff;
+    font-family: 'Indie Flower', cursive;
+    font-size:1rem;
+    padding-top:4%;
+}
+img{
+    width:80%;
+}
